@@ -1,0 +1,1 @@
+This project encrypts and decrypts a message based on the text the user types in.
